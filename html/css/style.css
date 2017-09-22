@@ -10,6 +10,12 @@
 	margin-bottom: 50px;
 }
 
+#mv{
+	height: 300px;
+	margin-bottom: 50px;
+	background-color: #cfc;
+}
+
 #main{
 	width: 700px;
 	height: 500px;
