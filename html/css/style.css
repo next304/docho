@@ -39,5 +39,12 @@
 
 #about #main{
 	width: 940px;
+	height: auto;
 	background-color: #ccf;
+}
+
+.section{
+	height: 200px;
+	margin: 50px;
+	background-color: #fcc;
 }
